@@ -1,6 +1,6 @@
 ## Hi, I'm Sachin :wave:
 
-![ My Intro Image](images/github_header_2.JPG)
+![ My Intro Image](images/github_header_3.JPG)
 
 #### 🤔 Who is Sachin Malik ?  
 * 🏫 I'm a Sophomore pursuing a Bachelor’s degree in Computer Sciences from the Delhi Technological University New Delhi.   
