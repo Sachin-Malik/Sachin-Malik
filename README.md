@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @Sachin-Malik
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React and Redux
-- 📫 You can reach me at sachinmalik199821@gmail.com
+## Hi, I'm Sachin :wave:
 
-<!---
-Sachin-Malik/Sachin-Malik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+I am a FullStack Developer from India, New Delhi.  I have a passion for web design/development and love to create for web and mobile devices. I like to work with latest frameworks and also try to keep up with everchanging tools and technology. I also have strong knowledge of Data Structures and have intuitive problem solving skills.
