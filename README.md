@@ -29,5 +29,6 @@
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">  
 #### :computer: Coding Ratings :
+![Lines of code](https://img.shields.io/badge/900%20Questions%20On%20LeetCode-orange)
 ![Lines of code](https://img.shields.io/badge/CodeChef%201655-blue)
 ![Lines of code](https://img.shields.io/badge/Ranked%2015th%20on%20InterviewBit%20(2018%20Batch)-orange)
