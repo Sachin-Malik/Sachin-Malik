@@ -3,7 +3,7 @@
 ![ My Intro Image](images/github_header_3.JPG)
 
 ## 🤔 Who is Sachin Malik ?  
-* 🏦 I'm a currently working as Software Engineer at NCR Corporation and currenly discovering what It means to be a Software Engineer.  
+* 🏦 I'm a currently working as Software Engineer at NCR Corporation and discovering what It means to be a Software Engineer.  
 * ⚡️ My expertise primarily revolves around Web Development, JavaScript, React, Redux, Next.JS, Node.JS, Nest.JS, C++ and have little bit of android development.  
 * 💻 I'm Currently trying to expand my knowledge of Data Structure and Algorithms.  
 
