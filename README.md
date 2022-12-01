@@ -1,6 +1,6 @@
 # Hi, I'm Sachin :wave:
 
-![ My Intro Image](images/github_header_3.JPG)
+![Github_Header](https://user-images.githubusercontent.com/78909389/205107322-a79526f9-6db6-43b7-a265-b83bb1a064b1.png)
 
 ## 🤔 Who is Sachin Malik ?  
 * 🏦 I'm a currently working as Software Engineer at NCR Corporation and discovering what It means to be a Software Engineer.  
