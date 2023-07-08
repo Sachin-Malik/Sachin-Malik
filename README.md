@@ -3,13 +3,14 @@
 ![Github_Header](https://user-images.githubusercontent.com/78909389/205107322-a79526f9-6db6-43b7-a265-b83bb1a064b1.png)
 
 ## 🤔 Who is Sachin Malik ?  
-* 🏦 I'm a currently working as Software Engineer at NCR Corporation and discovering what It means to be a Software Engineer.  
+* 🏦 I'm a Software Engineer currently working at NCR Corporation and discovering what It means to be a Software Engineer.  
 * ⚡️ My expertise primarily revolves around Web Development, JavaScript, React, Redux, Next.JS, Node.JS, Nest.JS, C++ and have little bit of android development.  
-* 💻 I'm Currently trying to expand my knowledge of Data Structure and Algorithms.  
+* 💻 I'm Currently exploring the fascinating domain of System Design and learning what it takes to build Systems that are robust, scalable and error tolerable. 
 
 ## Find me Around the web :earth_asia::
 * Your Future Employee on [LinkedIn](https://www.linkedin.com/in/sachin-malik-65b603197/) :office:  
-* Tweeting random stuff about Development on [Twitter](https://twitter.com/SachinM66777739)  
+* Tweeting random stuff about Development on [Twitter](https://twitter.com/SachinM66777739)
+* Checkout my academic achievement and professional history at [My Portfolio](https://sachin-malik.github.io/dev/)
     
     
  ### :computer: Most Used Language and Framework :
@@ -36,6 +37,6 @@
 
 
 ### :computer: Coding Ratings :
-![Lines of code](https://img.shields.io/badge/1000+%20Questions%20On%20LeetCode-orange)
+![Lines of code](https://img.shields.io/badge/1250+%20Questions%20On%20LeetCode-orange)
 ![Lines of code](https://img.shields.io/badge/CodeChef%201655-blue)
 ![Lines of code](https://img.shields.io/badge/Ranked%2015th%20on%20InterviewBit%20(2018%20Batch)-orange)
