@@ -1,6 +1,6 @@
 # Hi, I'm Sachin :wave:
 
-![Github_Header](https://user-images.githubusercontent.com/78909389/205107322-a79526f9-6db6-43b7-a265-b83bb1a064b1.png)
+![Github_Header](https://github.com/Sachin-Malik/Sachin-Malik/assets/78909389/3bc9eb53-8cd6-479f-a835-ffc8bd6236f7)
 
 ## 🤔 Who is Sachin Malik ?  
 * 🏦 I'm a Software Engineer currently working at [Gan.AI](https://www.gan.ai) and discovering what It means to be a Software Engineer.  
